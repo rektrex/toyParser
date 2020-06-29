@@ -1,3 +1,5 @@
+module Class where
+
 import Control.Applicative
 
 type Error = String
