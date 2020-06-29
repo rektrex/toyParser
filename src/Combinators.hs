@@ -1,4 +1,4 @@
-module Primitives where
+module Combinators where
 
 import Class
 

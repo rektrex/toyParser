@@ -1,7 +1,7 @@
 module Main where
 
 import Class
-import Primitives
+import Combinators
 
 main :: IO ()
 main = do
